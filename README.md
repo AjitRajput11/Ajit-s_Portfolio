@@ -5,9 +5,14 @@
 
 --
 1)Who prefers energy drink more?(male/female/non-binary?)
+
+
 2)Which age group prefers energy drinks more?
+
 3)Which type of marketing reaches the most Youth (15-30)?
+
 4)What are the preferred ingredients of energy drinks among respondents?
+
 5)What packaging preferences do respondents have for energy drinks?
 6)Who are the current market leaders?
 7)What are the primary reasons consumers prefer those brands over ours?
