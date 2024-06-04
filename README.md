@@ -1,5 +1,6 @@
-# Ajit-s_Portfolio
-Analytics Portfolio
-# Welcome to my portfolio wesite
-*sql
-*python
+# Consumer Goods EDA in MySQL
+
+## In this eda, I explored sql by solving some questions.
+# The questions are as below--
+
+
